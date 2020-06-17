@@ -1,4 +1,4 @@
-# Virtual-memory-simulation
+# Virtual-Memory-Simulation
 # OS2-PROJECT
 
 [EN]
